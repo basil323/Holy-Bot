@@ -1,6 +1,8 @@
 # Announcement
 <h1 align="center">This repository is no longer maintained by the owner</h1>
 
+# Owner:-https://www.instagram.com/vander_shift/
+
 ## *
 <p align="center">
 <img src="https://raw.githubusercontent.com/basil323/whatsapp-bot/master/media/img/Kaguya.png" width="128" height="128"/>
