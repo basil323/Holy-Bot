@@ -6,7 +6,7 @@ https://www.instagram.com/vander_shift/
 
 ## *
 <p align="center">
-<img src="https://raw.githubusercontent.com/basil323/whatsapp-bot/master/media/img/Kaguya.png" width="128" height="128"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9JpQUDLQZU9q8tn2EnigvkibsYrVhrBbtAtr9XsFPVmobPQI&s" width="128" height="128"/>
 </p>
 <p align="center">
 <a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
